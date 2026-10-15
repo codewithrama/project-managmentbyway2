@@ -98,7 +98,7 @@ The database comes pre-seeded with 3 roles ready for testing:
 
 ### 5. Running the Application
 
-In terminal 1 (start backend API on port 5000):
+In terminal 1 (start backend API on port 5001):
 ```bash
 cd backend
 npm run dev
