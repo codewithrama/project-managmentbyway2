@@ -1,0 +1,13 @@
+{
+  "name": "project-and-team-management-system",
+  "version": "1.0.0",
+  "description": "Full-stack Project & Team Management System",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "seed": "npm --prefix backend run seed",
+    "test:backend": "npm --prefix backend test",
+    "build:backend": "npm --prefix backend run build",
+    "build:frontend": "npm --prefix frontend run build"
+  }
+}
